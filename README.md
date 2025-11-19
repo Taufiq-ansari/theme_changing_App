@@ -27,8 +27,8 @@ lib/
 
 
 ## 📸Screenshot
-![Screenshot](https://github.com/Taufiq-ansari/Fetch_Api/blob/main/assets/images/Screenshot.png)
-![Screenshot](https://github.com/Taufiq-ansari/Fetch_Api/blob/main/assets/images/Screenshot.png)
+![Screenshot](https://github.com/Taufiq-ansari/theme_changing_App/blob/main/assets/darkmode.png)
+![Screenshot]()
 
 #▶️ How to Run
 
