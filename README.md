@@ -2,6 +2,44 @@
 
 A new Flutter project.
 
+
+# Features
+
+> Toggle between different themes (for example: light and dark mode)
+
+> Use of Flutter’s theming capabilities (ThemeData, etc.)
+
+> Clean UI design with a focus on theme change experience
+
+> Easy to extend: you can add more custom themes, colors, fonts, etc.
+
+# Packages Used
+
+🧩 provider: State management
+
+# 📁 Project Structure
+lib/
+ ├─ main.dart      
+ ├─ theme/           
+ ├─ widgets/      
+ └─ screens/   
+
+
+
+## 📸Screenshot
+![Screenshot](https://github.com/Taufiq-ansari/Fetch_Api/blob/main/assets/images/Screenshot.png)
+![Screenshot](https://github.com/Taufiq-ansari/Fetch_Api/blob/main/assets/images/Screenshot.png)
+
+#▶️ How to Run
+
+.Run flutter pub get.
+
+.Ensure your API endpoint is correct in fetchapi.dart.
+
+.Start the project with flutter run.
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
