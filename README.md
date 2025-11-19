@@ -28,7 +28,7 @@ lib/
 
 ## 📸Screenshot
 ![Screenshot](https://github.com/Taufiq-ansari/theme_changing_App/blob/main/assets/darkmode.png)
-![Screenshot]()
+![Screenshot](https://github.com/Taufiq-ansari/theme_changing_App/blob/main/assets/lightmode.png)
 
 #▶️ How to Run
 
